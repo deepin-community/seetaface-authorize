@@ -1,0 +1,17 @@
+seetaface-authorize (1.0.0.1-1+dde+u001) UNRELEASED; urgency=medium
+
+  * update
+
+ -- likier <likier@sina.cn>  Thu, 28 Apr 2022 17:19:01 +0800
+
+seetaface-authorize (1.0.0.1-1+dde) unstable; urgency=medium
+
+  * Fix non-x86/64 build issue
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Thu, 09 Dec 2021 15:34:47 +0800
+
+seetaface-authorize (1.0.0-1) unstable; urgency=medium
+
+  * Initial release 
+
+ -- liujianqing <liujianqiang@uniontech.com>  Fri, 03 Dec 2021 17:08:50 +0800
