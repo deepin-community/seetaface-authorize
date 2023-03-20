@@ -1,8 +1,8 @@
-seetaface-authorize (1.0.0.1-1+dde+u001) UNRELEASED; urgency=medium
+seetaface-authorize (1.0.0.1-1deepin2) UNRELEASED; urgency=medium
 
   * update
 
- -- likier <likier@sina.cn>  Thu, 28 Apr 2022 17:19:01 +0800
+ -- Yutao Meng <mengyutao@uniontech.com>  Mon, 20 Mar 2023 11:02:43 +0800
 
 seetaface-authorize (1.0.0.1-1+dde) unstable; urgency=medium
 
