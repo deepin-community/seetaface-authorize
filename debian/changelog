@@ -1,3 +1,9 @@
+seetaface-authorize (1.0.0.1-2deepin1) unstable; urgency=medium
+
+  * Normalize ver2 (XdeepinY).
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Tue, 27 Aug 2024 16:05:26 +0800
+
 seetaface-authorize (1.0.0.1-2deepin) unstable; urgency=medium
 
   * update
